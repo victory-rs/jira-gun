@@ -8,7 +8,7 @@ const defaultMeta = {
   siteName: 'Jira gun',
   description: 'A gun. For Jira.',
   /** Without additional '/' on the end, e.g. https://theodorusclarence.com */
-  url: 'https://jiragun.vercel.app',
+  url: 'https://jira-gun.vercel.app',
   type: 'website',
   robots: 'follow, index',
   /** No need to be filled, will be populated with openGraph function */
